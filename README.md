@@ -22,7 +22,18 @@
 _ _ _
 
 #### 零之轨迹 （Ver1.0-20120810）
-- 即将放出
+##### 说明
+- 共***29***个敌人AI策略调整，包括银、IBC六连战等精彩战斗，调整细节请在游戏中体验
+
+
+
+
+##### 安装方法
+- 补丁安装方法，将***data***文件夹复制到游戏**根目录**下
+- 使用补丁前请备份，不提供还原补丁
+
+##### 下载地址
+- [ED7_ZERO_AIOpt_Ver1.0-20120810.zip](https://github.com/emengjzs/ED_SORA_ZERO_AO_AI_Opt/releases/download/v1.01/ED7_ZERO_AIOpt_Ver1.0-20120810.zip)
 
 _ _ _
 
@@ -41,7 +52,7 @@ _ _ _
 - 使用补丁前请备份，不提供还原补丁
 
 ##### 下载地址
-- [ED7_AO_AIOpt_Ver1.01-20140217.zip](https://github.com/emengjzs/ED_SORA_ZERO_AO_AI_Opt/releases/download/AO-v1.01-20140217/ED7_AO_AIOpt_Ver1.01-20140217.zip)
+- [ED7_AO_AIOpt_Ver1.01-20140217.zip](https://github.com/emengjzs/ED_SORA_ZERO_AO_AI_Opt/releases/download/v1.01/ED7_AO_AIOpt_Ver1.01-20140217.zip)
 
 ## 声明
 - 本补丁仅作学习和研究之用，不得用于商业用途
